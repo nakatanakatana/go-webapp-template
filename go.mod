@@ -6,7 +6,7 @@ require (
 	connectrpc.com/connect v1.20.0
 	github.com/caarlos0/env/v11 v11.4.1
 	github.com/ncruces/go-sqlite3 v0.35.1
-	golang.org/x/net v0.56.0
+	golang.org/x/net v0.57.0
 	google.golang.org/protobuf v1.36.11
 )
 
